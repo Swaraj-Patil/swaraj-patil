@@ -1,18 +1,45 @@
-<h1 align="center">Hi 👋, I'm Swaraj Patil</h1>
-<h3 align="center">I build practical tools, experiments, and demo apps focused on web, automation, and data.</h3>
+<!-- You opened the source. That's the kind of curiosity I like. Say hi at patil.swaraj@northeastern.edu -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swaraj-patil&label=Profile%20views&color=0e75b6&style=flat" alt="swaraj-patil" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamswaraj_patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamswaraj_patil" height="30" width="40" /></a>
-<a href="https://instagram.com/03swaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="03swaraj" height="30" width="40" /></a>
-<a href="https://www.behance.net/swarajpatil-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="swarajpatil-profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="A terminal runs a test suite on Swaraj Patil and every check passes. Five years of production software, technical lead on a travel platform with 393 API endpoints and 12 integrations, generated C verified by 40,117 differential tests with zero failures, and a claim he retracted after 340 benchmark runs.">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">I build software people depend on, then I prove it works.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaraj-patil&show_icons=true&locale=en&layout=compact" alt="swaraj-patil" /></p>
+<p align="center">
+  <a href="https://swarajpatil.vercel.app/"><b>Portfolio</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swaraj1703"><b>LinkedIn</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:patil.swaraj@northeastern.edu"><b>Email</b></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaraj-patil&show_icons=true&locale=en" alt="swaraj-patil" /></p>
+### Things I've built
+
+<p>
+  <a href="https://github.com/Swaraj-Patil/canforge"><img src="assets/card-canforge.svg" width="49%" alt="canforge, a Rust toolchain for vehicle CAN databases. 40,117 differential tests, 0 failures."></a>
+  <a href="https://github.com/Swaraj-Patil/PolicyLens"><img src="assets/card-policylens.svg" width="49%" alt="PolicyLens, ask a university handbook a question and get the answer with the page it came from."></a>
+</p>
+<p>
+  <a href="https://github.com/Swaraj-Patil/retrace"><img src="assets/card-retrace.svg" width="49%" alt="Retrace, open-source observability for LLM applications, in development."></a>
+  <a href="https://docs.google.com/document/d/1XBmWJ42q9-u04TiIN-oxP5gkxYSVcTlcN0pD1SWEpkY/edit?usp=sharing"><img src="assets/card-mongodb.svg" width="49%" alt="MongoDB TTL investigation, why TTL deletes got up to 6.6x slower, traced into the storage engine."></a>
+</p>
+
+### What I'm working on
+
+- An LLM pipeline that maps messy data files onto clean schemas, for my Master's Project at Northeastern
+- New features for [MSstatsShiny](https://msstats.org/msstatsshiny/), an open-source app biomedical researchers use worldwide
+- [Retrace](https://github.com/Swaraj-Patil/retrace), in the open, one commit at a time
+
+### What I work with
+
+`Python` `TypeScript` `Rust` `C` `SQL` `React` `Next.js` `FastAPI` `NestJS` `PostgreSQL` `AWS` `Docker`
+
+<details>
+<summary><b>For recruiters, the 30-second version</b></summary>
+<br>
+
+- MS in Computer Science at Northeastern, graduating December 2027
+- Five years of production software for banks, insurance agencies and a Fortune 500 biotech
+- Based in Boston and happy to relocate
+- The fastest way to reach me is [patil.swaraj@northeastern.edu](mailto:patil.swaraj@northeastern.edu)
+
+</details>
